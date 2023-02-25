@@ -2,4 +2,4 @@
 
 Rock paper scissors game created with HTML, CSS and JS.
 
-[see](????) 👌
+[see](https://merabi-giorgadze.github.io/rock-paper-scissors/) 👌
